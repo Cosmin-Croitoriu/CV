@@ -1,4 +1,4 @@
-         ![CV photo](https://github.com/Cosmin-Croitoriu/CV/blob/master/images/photo.png)
+         ![alt text](https://github.com/Cosmin-Croitoriu/CV/blob/master/images/photo.png)
 # Cosmin Croitoriu
 
 
