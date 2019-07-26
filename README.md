@@ -67,10 +67,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Full stack development and projects. 
 
 #### Barking and Dagenham College (September 2017 to April 2019)
-  Lev 3 Diploma in menchanical engineering: Domesting plumbing and Heating
+- Lev 3 Diploma in menchanical engineering: Domesting plumbing and Heating
 
 #### Alexandru Ioan Cuza University (September 2004 to April 2008)
-  Linguistics Degree in Romanian and Italian language
+- Linguistics Degree in Romanian and Italian language
 
 ## Experience
 - 4 Exciting months into coding trough Makers
