@@ -9,19 +9,25 @@ cosmin.c.croitoriu@gmail.com
 A full-stack junior developer, fresh Makers graduate, analitycally minded and with a massive interest for technology.  
 
 ## Projects
- - [Woke App](https://github.com/mondongos/woke-platypus)   
+ - [Woke App](https://github.com/mondongos/woke-platypus) - By team PLatypus Boys
   Woke app is an Android application develloped in Java and Android Studio that implements Text to Speech and Speech to Text.
   The idea of the project is to create a quiz app that can be used hands free while driving and to be used only with voice commands.
   For Text to Speech implementation my team and I took advantage of the in-build Android Studio TTS
-For Speech to Text functionality we included DialogueFlow with the help of API 
+  For Speech to Text functionality we included DialogueFlow with the help of API. The project has been done using Java and JUnit as testing framework.
    
+ - [Makers-BnB](https://github.com/Cosmin-Croitoriu/Makers-Bnb) - By Team Alpha
+   Makers-Bnb is a web application in which various users create an account, can view a list of avaliable properties for renting, list their properties for a specific period of time, as well as accept or reject requests from other users. 
+   Developed in Ruby and Sinatra, including Postgresql for database, DataMapper as ORM,    Rspec and Capybara as testing frameworks, HTML and CSS for frontend. The server has been remotely hosted on Heroku. 
+ 
+ - [Acebook](https://github.com/marbuthnott/acebook-d-railed) - By team D-railed
+     Acebook Web app alowes users to sign up and sign in, submit posts on their Wall Page or on other's users; like or dislike various posts; delete or update the posts they created in .
+   Group project as a Facebook clone, developed in Ruby on Rails, with the help of Activerecord, HTML, CSS, Travis CI, RSpec, Capybara 
 
 
 
 
 
 
-|
 ## Skills
 
 #### This Skill
