@@ -11,8 +11,22 @@ A full-stack junior developer, fresh Makers graduate, analitycally minded and wi
 ## Projects
 | Title | Description | Development Timeframe | Technologies Used | Test Suites |
 | --- | --- | --- | --- | --- |
+<<<<<<< HEAD
 | [Woke App](https://github.com/mondongos/woke-platypus) | Woke app is an Android application develloped in Java and Android Studio that implements Text to Speech and Speech to Text. The idea of the project is to create a quiz app that can be used hands free while driving
 and to be used only with voice commands. For Text to Speech implementation my team and I took advantage of the in-build Android Studio TTS. For Speech to Text functionality we included DialogueFlow with the help of API| 
+=======
+| [Woke App](https://github.com/mondongos/woke-platypus) | Woke app is an Android application develloped in Java and Android Studio that implements Text to Speech and Speech to Text.
+  The idea of the project is to create a quiz app that can be used hands free while driving
+and to be used only with voice commands.
+  For Text to Speech implementation my team and I took advantage of the in-build Android
+Studio TTS
+For Speech to Text functionality we included DialogueFlow with the help of API 
+
+
+
+
+
+>>>>>>> 66ec22cccb679e721a0722ed85dab3abdec9b637
 
 |
 ## Skills
