@@ -30,44 +30,34 @@ A full-stack junior developer, fresh Makers graduate, analitycally minded and wi
 
 ## Skills
 
-#### This Skill
+#### Fast learner
+Makers helped me discover a new power - quick learning abilities - learn new concepts and apply them to a range of different problems that serve various purposes.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+#### Adaptable
+I am not afraid to try new things, experiement and learn from experiences to improve. As a bank staff for NHS I used to work different roles all the time and I enjoyed being part of different teams and learn how they work and how they connect to other services.
 
-- Experience
-- Achievements
-- Evidence
+#### Teamwork
+I love being part of a team, share my ideas and learn from others.
 
-#### Another Skill
+#### 
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
-
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
-
-##Education
 
 #### Makers (April 2019 to July 2019)
 
 - Intensive coding bootcamp.
 - Fast pased.
-- Elaborate introduction into coding, promoting  Agile Development and TDD aproaches to     sowftare engineering.
-- Full stack development and projects. 
+- Elaborate introduction into coding, promoting  Agile Development and TDD aproaches to  sowftare engineering.
+- Full stack development and projects.
+- Values: Agile/XP.
+- Languages: Ruby, JavaScript, Java, HTML/CSS
+- Testing: RSpec, Jasmine, Capybara.
+- Web Frameworks: Sinatra, 
+- Databases: PostgreSQL.
+
 
 #### Barking and Dagenham College (September 2017 to April 2019)
 - Lev 3 Diploma in menchanical engineering: Domesting plumbing and Heating
