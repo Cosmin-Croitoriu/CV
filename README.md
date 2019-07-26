@@ -18,8 +18,6 @@ and to be used only with voice commands.
 Studio TTS
 For Speech to Text functionality we included DialogueFlow with the help of API 
 
-| [woke-platypus]() | This Java/ Spring application was built during the group engineering project week at Makers. The goal was to build a web app that has some of the features and functionality of Facebook. We decided to build this in a stack that was brand new to all of us because we wanted a challenge and we wanted to showcase our ability to learn quickly. | 2 weeks | Java/Springboot, Maven, Webpack, Thymeleaf, React | |
-| [Bank tech test](https://github.com/Possed/bank_tech_test) | Aim - testing OO and TDD skills by creating code that is easy to access and interact via IRB. | 1 week | Ruby | RSpec|
 
 
 
