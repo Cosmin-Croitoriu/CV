@@ -47,17 +47,21 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+##Education
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### Makers (April 2019 to July 2019)
 
-#### Any other qualifications
+- Intensive coding bootcamp.
+- Fast pased.
+- Elaborate introduction into coding, promoting  Agile Development and TDD aproaches to     sowftare engineering.
+- Full stack development and projects. 
+
+#### Barking and Dagenham College (September 2017 to April 2019)
+  Lev 3 Diploma in menchanical engineering: Domesting plumbing and Heating
+
+#### Alexandru Ioan Cuza University (September 2004 to April 2008)
+  Linguistics Degree in Romanian and Italian language
 
 ## Experience
-
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+- 4 Exciting months into coding trough Makers
+- 8 Years experience as a mechanical engineer (domesting and commercial heating industry) 
