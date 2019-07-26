@@ -34,10 +34,10 @@ A full-stack junior developer, fresh Makers graduate, analitycally minded and wi
 Makers helped me discover a new power - quick learning abilities - learn new concepts and apply them to a range of different problems that serve various purposes.
 
 #### Adaptable
-I am not afraid to try new things, experiement and learn from experiences to improve. As a bank staff for NHS I used to work different roles all the time and I enjoyed being part of different teams and learn how they work and how they connect to other services.
+I love to try new things, experiement and learn from experiences to improve.
 
 #### Teamwork
-I love being part of a team, share my ideas and learn from others.
+ I love being part of a team, able to integrate very fast in any team environment, share my ideas and learn from others.
 
 #### 
 
