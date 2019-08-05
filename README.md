@@ -6,7 +6,7 @@ cosmin.c.croitoriu@gmail.com
 
 ## About me
 
-   A full-stack junior developer, fresh Makers graduate, analitycally minded and with a massive interest for technology.   
+   A full-stack junior developer, fresh Makers graduate, analytically minded and with a massive interest for technology.   
  
 
 ## Projects
