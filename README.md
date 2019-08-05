@@ -22,7 +22,13 @@ cosmin.c.croitoriu@gmail.com
  
  - [Acebook](https://github.com/marbuthnott/acebook-d-railed) - part of team D-railed
      Acebook Web app alowes users to sign up and sign in, submit posts on their Wall Page or on other's users; like or dislike various posts; delete or update the posts they created in .
-   Group project as a Facebook clone, developed in Ruby on Rails, with the help of Activerecord, HTML, CSS, Travis CI, RSpec, Capybara 
+   Group project as a Facebook clone, developed in Ruby on Rails, with the help of Activerecord, HTML, CSS, Travis CI, RSpec, Capybara
+ 
+ - [Takeaway Challange](https://github.com/Cosmin-Croitoriu/takeaway-challenge) - solo project
+     This is a Makers kata in which I used, for the first time, an API to enable a text message receiving app, Environmental Variables for encoding sensitive data, developed in Ruby using TDD (Rspec). I have used Agile Process, Dependancy Injection, Single Responsability Principle, Separation of Conscerns, Mocks and Stubs. 
+     The aim of this project is to build a takeaway program to meet the user requirements. The program enables the user to view a list of dishes with prices and select some dishes they want to order. There is build_in verification within the program to check that the total cost/bill of the order matches what is expected given what the user has ordered.
+     The user will confirm that they want to place the order. Once the order is placed, the user will receive a text message that their order will be delivered before the order time (+1hr).
+
 
 
 
