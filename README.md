@@ -17,7 +17,7 @@ cosmin.c.croitoriu@gmail.com
   For Speech to Text functionality we included DialogueFlow with the help of API. The project has been done using Java and JUnit as testing framework.
    
  - [Makers-BnB](https://github.com/Cosmin-Croitoriu/Makers-Bnb) - part of Team Alpha
-   Makers-Bnb is a web application in which various users create an account, can view a list of avaliable properties for renting, list their properties for a specific period of time, as well as accept or reject requests from other users. 
+   Makers-Bnb is a web application in which various users create an account, can view a list of available properties for renting, list their properties for a specific period of time, as well as accept or reject requests from other users. 
    Developed in Ruby and Sinatra, including Postgresql for database, DataMapper as ORM,    Rspec and Capybara as testing frameworks, HTML and CSS for frontend. The server has been remotely hosted on Heroku. 
  
  - [Acebook](https://github.com/marbuthnott/acebook-d-railed) - part of team D-railed
