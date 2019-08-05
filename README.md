@@ -11,7 +11,7 @@ cosmin.c.croitoriu@gmail.com
 
 ## Projects
  - [Woke App](https://github.com/mondongos/woke-platypus) - part of the team PLatypus Boys
-  Woke app is an Android application develloped in Java and Android Studio that implements Text to Speech and Speech to Text.
+  Woke app is an Android application developed in Java and Android Studio that implements Text to Speech and Speech to Text.
   The idea of the project is to create a quiz app that can be used hands free while driving and to be used only with voice commands.
   For Text to Speech implementation my team and I took advantage of the in-build Android Studio TTS
   For Speech to Text functionality we included DialogueFlow with the help of API. The project has been done using Java and JUnit as testing framework.
