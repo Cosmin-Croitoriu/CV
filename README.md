@@ -25,7 +25,7 @@ I love to try new things, experiment and learn from experiences to improve.
 #### Teamwork 
 I love being part of a team, able to integrate very fast in any team environment, share my ideas and learn from others.
 ### Education
-* Makers (April 2019 to July 2019) *
+* Makers *(April 2019 to July 2019)*
 * Intensive coding bootcamp.
 * Fast paced.
 * Elaborate introduction into coding, promoting Agile Development and TDD approaches to software engineering.
