@@ -32,8 +32,8 @@ I love being part of a team, able to integrate very fast in any team environment
 * Full stack development and projects.
 * Values: Agile/XP.
 * Languages: Ruby, JavaScript, Java, HTML/CSS
-* Testing: RSpec, Jasmine, Capybara.
-* Web Frameworks: Sinatra,
+* Testing: RSpec, Jasmine, Capybara, JUnit
+* Web Frameworks: Sinatra, Ruby on Rails
 * Databases: PostgreSQL.
  #### Barking and Dagenham College *(September 2017 to April 2019)* 
     Lev 3 Diploma in mechanical engineering: Domesticc plumbing and Heating
