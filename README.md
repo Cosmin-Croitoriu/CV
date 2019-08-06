@@ -36,9 +36,9 @@ I love being part of a team, able to integrate very fast in any team environment
 * Web Frameworks: Sinatra, Ruby on Rails
 * Databases: PostgreSQL.
  #### Barking and Dagenham College *(September 2017 to April 2019)* 
-    Lev 3 Diploma in mechanical engineering: Domesticc plumbing and Heating
+* Lev 3 Diploma in mechanical engineering: Domesticc plumbing and Heating
  #### Alexandru Ioan Cuza University *(September 2004 to April 2008)*  
-    Linguistics Degree in Romanian and Italian language
+* Linguistics Degree in Romanian and Italian language
 ### Experience
 * 4 Exciting months into coding trough Makers
 * 8 Years experience as a mechanical engineer (domestic and commercial heating industry)
