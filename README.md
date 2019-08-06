@@ -18,14 +18,14 @@ A full-stack junior developer, fresh Makers graduate, analytically minded and wi
 *  [Bank_tech_kata](https://github.com/Cosmin-Croitoriu/bank_tech_kata) - solo project, Aim - testing OO and TDD skills by creating code that is easy to access and interact via IRB. The project is meant to mimic a tech test, using best practices, built with Ruby and Rspec.
 
 ### Skills
-*Fast learner*
-Makers helped me discover a new power - quick learning abilities - learn new concepts and apply them to a range of different problems that serve various purposes.
-*Adaptable*
+* Fast learner *
+  Makers helped me discover a new power - quick learning abilities - learn new concepts and apply them to a range of different problems that serve various purposes.
+* Adaptable *
 I love to try new things, experiment and learn from experiences to improve.
-*Teamwork*
+* Teamwork *
 I love being part of a team, able to integrate very fast in any team environment, share my ideas and learn from others.
 ### Education
-*Makers (April 2019 to July 2019)*
+* Makers (April 2019 to July 2019) *
 * Intensive coding bootcamp.
 * Fast paced.
 * Elaborate introduction into coding, promoting Agile Development and TDD approaches to software engineering.
@@ -35,7 +35,7 @@ I love being part of a team, able to integrate very fast in any team environment
 * Testing: RSpec, Jasmine, Capybara.
 * Web Frameworks: Sinatra,
 * Databases: PostgreSQL.
-*Barking and Dagenham College (September 2017 to April 2019)*
+* Barking and Dagenham College (September 2017 to April 2019) *
 * Lev 3 Diploma in mechanical engineering: Domesticc plumbing and Heating
 *Alexandru Ioan Cuza University (September 2004 to April 2008)*
 * Linguistics Degree in Romanian and Italian language
