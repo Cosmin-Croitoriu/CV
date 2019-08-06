@@ -1,7 +1,6 @@
 <p align="center"><img src="./images/photo.png" alt="portrait" width="250"/></p>
      
 # Cosmin Croitoriu
-cosmin.c.croitoriu@gmail.com
 
 
  [cosmin.c.croitoriu@gmail.com](mailto:cosmin.c.croitoriu@gmail.com) 
