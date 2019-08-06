@@ -25,7 +25,7 @@ I love to try new things, experiment and learn from experiences to improve.
 #### Teamwork 
 I love being part of a team, able to integrate very fast in any team environment, share my ideas and learn from others.
 ### Education
-* Makers *(April 2019 to July 2019)*
+ #### Makers *(April 2019 to July 2019)*
 * Intensive coding bootcamp.
 * Fast paced.
 * Elaborate introduction into coding, promoting Agile Development and TDD approaches to software engineering.
@@ -35,8 +35,8 @@ I love being part of a team, able to integrate very fast in any team environment
 * Testing: RSpec, Jasmine, Capybara.
 * Web Frameworks: Sinatra,
 * Databases: PostgreSQL.
-* Barking and Dagenham College *(September 2017 to April 2019)* Lev 3 Diploma in mechanical engineering: Domesticc plumbing and Heating
-* Alexandru Ioan Cuza University *(September 2004 to April 2008)*  Linguistics Degree in Romanian and Italian language
+ #### Barking and Dagenham College *(September 2017 to April 2019)* Lev 3 Diploma in mechanical engineering: Domesticc plumbing and Heating
+ #### Alexandru Ioan Cuza University *(September 2004 to April 2008)*  Linguistics Degree in Romanian and Italian language
 ### Experience
 * 4 Exciting months into coding trough Makers
 * 8 Years experience as a mechanical engineer (domestic and commercial heating industry)
