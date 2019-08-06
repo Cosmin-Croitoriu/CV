@@ -18,7 +18,7 @@ A full-stack junior developer, fresh Makers graduate, analytically minded and wi
 *  [Bank_tech_kata](https://github.com/Cosmin-Croitoriu/bank_tech_kata) - solo project, Aim - testing OO and TDD skills by creating code that is easy to access and interact via IRB. The project is meant to mimic a tech test, using best practices, built with Ruby and Rspec.
 
 ### Skills
-* Fast learner *
+*Fast learner*
   Makers helped me discover a new power - quick learning abilities - learn new concepts and apply them to a range of different problems that serve various purposes.
 * Adaptable *
 I love to try new things, experiment and learn from experiences to improve.
