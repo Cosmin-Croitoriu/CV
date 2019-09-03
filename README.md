@@ -50,7 +50,7 @@ I love to try new things, experiment and learn from experiences to improve.
 
 ### Experience
 * 6 Years (2001 - 2007) as a bartender/waiter in different touristic resorts trough Europe (Germany, Italy, Austria) during the Summer holidays, having seasonal contracts, in my last years of highscool and troughout the university.
-* 1 Year (2007 - 2008) Call Center operator (Open Mind Group Romania) in Italian language.
+* 1 Year (2008 - 2009) Call Center operator (Open Mind Group Romania) in Italian language.
 * 3 Years (2008 - 2011) Gaming company (WowBeez) as admin and custommer support.
 * 8 Years (2011 - 2019) Self-employed as a Mechanical Engineer (Domestic and Commercial HVAC industry).
 * 4 Exciting months into coding trough Makers.
