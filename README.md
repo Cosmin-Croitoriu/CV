@@ -5,7 +5,8 @@
 
  [cosmin.c.croitoriu@gmail.com](mailto:cosmin.c.croitoriu@gmail.com) 
 ### About me
-A full-stack junior developer, fresh Makers graduate, analytically minded and with a massive interest for technology.
+A full-stack junior developer and lifelong problem solver. I discovered coding after a career self-employed as a  domestic and commercial mechanical engineer including leading teams to redesign building heating and plumbing infrastructure. As a linguist, I have also travelled Europe learning to work and communicate in every country I stayed in. I’m excited now to channel my love of learning into tech.
+
 ### Projects
 *  [Woke App](https://github.com/mondongos/woke-platypus) - part of the team PLatypus Boys Woke app is an Android application developed in Java and Android Studio that implements Text to Speech and Speech to Text. The idea of the project is to create a quiz app that can be used hands free while driving and to be used only with voice commands. For Text to Speech implementation my team and I took advantage of the in-build Android Studio TTS For Speech to Text functionality we included DialogueFlow with the help of API. The project has been done using Java and JUnit as testing framework.
 
@@ -23,22 +24,34 @@ A full-stack junior developer, fresh Makers graduate, analytically minded and wi
 #### Adaptable 
 I love to try new things, experiment and learn from experiences to improve.
 #### Teamwork 
-I love being part of a team, able to integrate very fast in any team environment, share my ideas and learn from others.
+ I love being part of a team, able to integrate very fast in any team environment, share my ideas and learn from others.
+#### Self-Management
+ I have worked as self-employed as a HVAC engineer, taking part in various projects and contracts. I have always managed to self-organize, take initiative, contribute and complete contracts at the highest standards.
+    
 ### Education
+ #### Alexandru Ioan Cuza University *(September 2004 to April 2008)*  
+* Linguistics Degree in Romanian and Italian language.
+ #### CSBS College *(September 2013 to April 2015)*
+* Level 2 Diploma (6035) in Domestic Plumbing and Heating.
+ #### MPower Training *(September 2015 to January 2016)*
+* NVQ Lev 2 in Domestic Plumbing and Heating.
+ #### Barking and Dagenham College *(September 2017 to April 2019)* 
+* Lev 3 Diploma in Mechanical Engineering: Domestic and Commercial Plumbing and Heating.
  #### Makers *(April 2019 to July 2019)*
 * Intensive coding bootcamp.
 * Fast paced.
 * Elaborate introduction into coding, promoting Agile Development and TDD approaches to software engineering.
 * Full stack development and projects.
 * Values: Agile/XP.
-* Languages: Ruby, JavaScript, Java, HTML/CSS
-* Testing: RSpec, Jasmine, Capybara, JUnit
-* Web Frameworks: Sinatra, Ruby on Rails
+* Languages: Ruby, JavaScript, Java, HTML/CSS.
+* Testing: RSpec, Jasmine, Capybara, JUnit.
+* Web Frameworks: Sinatra, Ruby on Rails.
 * Databases: PostgreSQL.
- #### Barking and Dagenham College *(September 2017 to April 2019)* 
-* Lev 3 Diploma in mechanical engineering: Domesticc plumbing and Heating
- #### Alexandru Ioan Cuza University *(September 2004 to April 2008)*  
-* Linguistics Degree in Romanian and Italian language
+
 ### Experience
-* 4 Exciting months into coding trough Makers
-* 8 Years experience as a mechanical engineer (domestic and commercial heating industry)
+* 6 Years (2001 - 2007) as a bartender/waiter in different touristic resorts trough Europe (Germany, Italy, Austria) during the Summer holidays, having seasonal contracts, in my last years of highscool and troughout the university.
+* 1 Year (2007 - 2008) Call Center operator (Open Mind Group Romania) in Italian language.
+* 3 Years (2008 - 2011) Gaming company (WowBeez) as admin and custommer support.
+* 8 Years (2011 - 2019) Self-employed as a Mechanical Engineer (Domestic and Commercial HVAC industry).
+* 4 Exciting months into coding trough Makers.
+
