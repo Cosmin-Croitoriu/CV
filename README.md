@@ -14,20 +14,19 @@ A full-stack junior developer and lifelong problem solver. I discovered coding a
 
 *  [Acebook](https://github.com/marbuthnott/acebook-d-railed) - part of team D-railed Acebook Web app allows users to sign up and sign in, submit posts on their Wall Page or on other’s users; like or dislike various posts; delete or update the posts they created in . Group project as a Facebook clone, developed in Ruby on Rails, with the help of Activerecord, HTML, CSS, Travis CI, RSpec, Capybara
 
-*  [Takeaway Challenge](https://github.com/Cosmin-Croitoriu/takeaway-challenge) - solo project, This is a Makers kata in which I used, for the first time, an API to enable a text message receiving app, Environmental Variables for encoding sensitive data, developed in Ruby using TDD (Rspec). I have used Agile Process, Dependancy Injection, Single Responsibility Principle, Separation of Conscerns, Mocks and Stubs. The aim of this project is to build a takeaway program to meet the user requirements. The program enables the user to view a list of dishes with prices and select some dishes they want to order. There is build_in verification within the program to check that the total cost/bill of the order matches what is expected given what the user has ordered. The user will confirm that they want to place the order. Once the order is placed, the user will receive a text message that their order will be delivered before the order time (+1hr).
+*  [Takeaway Challenge](https://github.com/Cosmin-Croitoriu/takeaway-challenge) - solo project, This is a Makers kata in which I used, for the first time, an API to enable a text message receiving app, Environmental Variables for encoding sensitive data, developed in Ruby using TDD (Rspec). I have used Agile Process, Dependancy Injection, Single Responsibility Principle, Separation of Concerns, Mocks and Stubs. The aim of this project is to build a takeaway program to meet the user requirements. The program enables the user to view a list of dishes with prices and select some dishes they want to order. There is build_in verification within the program to check that the total cost/bill of the order matches what is expected given what the user has ordered. The user will confirm that they want to place the order. Once the order is placed, the user will receive a text message that their order will be delivered before the order time (+1hr).
 
 *  [Bank_tech_kata](https://github.com/Cosmin-Croitoriu/bank_tech_kata) - solo project, Aim - testing OO and TDD skills by creating code that is easy to access and interact via IRB. The project is meant to mimic a tech test, using best practices, built with Ruby and Rspec.
 
 ### Skills
-#### Fast learner
-  Makers helped me discover a new power - quick learning abilities - learn new concepts and apply them to a range of different problems that serve various purposes.
-#### Adaptable 
-I love to try new things, experiment and learn from experiences to improve.
-#### Teamwork 
- I love being part of a team, able to integrate very fast in any team environment, share my ideas and learn from others.
+#### Adaptability
+ Working throughout a vast spectre of industries and countries, it allowed me to learn to easily adapt and contribute in any industry and group I took part.
 #### Self-Management
- I have worked as self-employed as a HVAC engineer, taking part in various projects and contracts. I have always managed to self-organize, take initiative, contribute and complete contracts at the highest standards.
-    
+ I have worked as self-employed as a HVAC engineer, taking part in various projects and contracts. I have always managed to self-organise, take initiative, contribute and complete contracts at the highest standards.
+#### Leadership and Teamwork
+ Throughout my mechanical engineering journey I have amassed extensive experience and management qualifications (SSSTS, Level 3 First Aider, Fire Marshal, Sentinel, PASMA) and was in charge of teams on various projects, my most important being the HVAC redesign of an embassy (2 Stratford Place) on behalf of LUL, planing works, reviewing designs, managing a team of 5 engineers and directly liaising with various institutions(Thames Water, Crossrail, HSE) during the whole project. 
+#### Problem Solving
+ During my 3 years working in the WowBeez gaming hub, and also through my mechanical engineering career a high degree of problem solving was involved. 80% of my work experience from the latter industry is due to fixing problems, designing, adapting various trade services to continuously updating construction standards and regulations.
 ### Education
  #### Alexandru Ioan Cuza University *(September 2004 to April 2008)*  
 * Linguistics Degree in Romanian and Italian language.
@@ -49,9 +48,9 @@ I love to try new things, experiment and learn from experiences to improve.
 * Databases: PostgreSQL.
 
 ### Experience
-* 6 Years (2001 - 2007) as a bartender/waiter in different touristic resorts trough Europe (Germany, Italy, Austria) during the Summer holidays, having seasonal contracts, in my last years of highscool and troughout the university.
-* 1 Year (2008 - 2009) Call Center operator (Open Mind Group Romania) in italian language on behalf of Vodafone Italia.
+* 6 Years (2001 - 2007) as a bartender/waiter in different touristic resorts trough Europe (Germany, Italy, Austria) during the Summer holidays, having seasonal contracts, in my last years of secondary school and throughout my university period.
+* 1 Year (2008 - 2009) Call Centre operator (Open Mind Group Romania) in Italian language on behalf of Vodafone Italia.
 * 3 Years (2008 - 2011) Gaming Start-Up, Operations Manager / Admin, solving operational and customer support issues using a tickets system and managing Lua and C++ developers.
-* 8 Years (2011 - 2019) Self-employed as a Mechanical Engineer (Domestic and Commercial HVAC industry) as well as Mechanical Supervisor in charge of redisigning the HVAC systems (2 Stratford Place, Bond Street - embassy) for London Underground LTD
+* 8 Years (2011 - 2019) Self-employed as a Mechanical Engineer (Domestic and Commercial HVAC industry) as well as Mechanical Supervisor / Foreman.
 * 4 Exciting months into coding trough Makers.
 
