@@ -5,8 +5,11 @@
 
  [cosmin.c.croitoriu@gmail.com](mailto:cosmin.c.croitoriu@gmail.com) 
 ### About me
-A full-stack junior developer and lifelong problem solver. I discovered coding after a career self-employed as a  domestic and commercial mechanical engineer including leading teams to redesign building heating and plumbing infrastructure. As a linguist, I have also travelled Europe learning to work and communicate in every country I stayed in. I’m excited now to channel my love of learning into tech.
-
+  A full-stack junior developer and lifelong problem solver. I discovered coding after a career self-employed as a domestic and commercial mechanical engineer including leading teams to redesign building heating and plumbing infrastructure. As a linguist, I have also travelled Europe learning to work and communicate in every country I stayed in. I’m excited now to channel my love of learning into tech.
+  Since my teens years I have been part of a group of friends with interest and careers in IT industry, always been intrigued and curious about their discussions and enthusiasm, and many times I have been advised by them to self train and follow a career in tech(that's how I have discovered Makers, actually). It never seemed the right time until now.
+  Because of this influence and entourage I've been exposed to, I developed a wider curiosity about tech over the years, and like to keep in touch with all the news about technologies, innovations and gadgets that I'm so fond of. My goal is to have a higher perspective on these rather than the standard consumer level one.
+  While the world of IT is newer to me, a lot of the same way of thinking applies here as in general engineering. That, coupled with my unsatisfiable curiosity, makes me an efficient worker, eager to delve into anything thrown at me.
+  
 ### Projects
 *  [Woke App](https://github.com/mondongos/woke-platypus) - part of the team PLatypus Boys Woke app is an Android application developed in Java and Android Studio that implements Text to Speech and Speech to Text. The idea of the project is to create a quiz app that can be used hands free while driving and to be used only with voice commands. For Text to Speech implementation my team and I took advantage of the in-build Android Studio TTS For Speech to Text functionality we included DialogueFlow with the help of API. The project has been done using Java and JUnit as testing framework.
 
@@ -19,8 +22,7 @@ A full-stack junior developer and lifelong problem solver. I discovered coding a
 *  [Bank_tech_kata](https://github.com/Cosmin-Croitoriu/bank_tech_kata) - solo project, Aim - testing OO and TDD skills by creating code that is easy to access and interact via IRB. The project is meant to mimic a tech test, using best practices, built with Ruby and Rspec.
 
 ### Skills
-#### Adaptability
- Working throughout a vast spectre of industries and countries, it allowed me to learn to easily adapt and contribute in any industry and group I took part.
+
 #### Self-Management
  I have worked as self-employed as a HVAC engineer, taking part in various projects and contracts. I have always managed to self-organise, take initiative, contribute and complete contracts at the highest standards.
 #### Leadership and Teamwork
@@ -28,14 +30,6 @@ A full-stack junior developer and lifelong problem solver. I discovered coding a
 #### Problem Solving
  During my 3 years working in the WowBeez gaming hub, and also through my mechanical engineering career a high degree of problem solving was involved. 80% of my work experience from the latter industry is due to fixing problems, designing, adapting various trade services to continuously updating construction standards and regulations.
 ### Education
- #### Alexandru Ioan Cuza University *(September 2004 to April 2008)*  
-* Linguistics Degree in Romanian and Italian language.
- #### CSBS College *(September 2013 to April 2015)*
-* Level 2 Diploma (6035) in Domestic Plumbing and Heating.
- #### MPower Training *(September 2015 to January 2016)*
-* NVQ Lev 2 in Domestic Plumbing and Heating.
- #### Barking and Dagenham College *(September 2017 to April 2019)* 
-* Lev 3 Diploma in Mechanical Engineering: Domestic and Commercial Plumbing and Heating.
  #### Makers *(April 2019 to July 2019)*
 * Intensive coding bootcamp.
 * Fast paced.
@@ -46,11 +40,24 @@ A full-stack junior developer and lifelong problem solver. I discovered coding a
 * Testing: RSpec, Jasmine, Capybara, JUnit.
 * Web Frameworks: Sinatra, Ruby on Rails.
 * Databases: PostgreSQL.
+ #### Barking and Dagenham College *(September 2017 to April 2019)* 
+* Lev 3 Diploma in Mechanical Engineering: Domestic and Commercial Plumbing and Heating.
+ #### MPower Training *(September 2015 to January 2016)*
+* NVQ Lev 2 in Domestic Plumbing and Heating.
+ #### CSBS College *(September 2013 to April 2015)*
+* Level 2 Diploma (6035) in Domestic Plumbing and Heating.
+ #### Alexandru Ioan Cuza University *(September 2004 to April 2008)*  
+* Linguistics Degree in Romanian and Italian language.
+
 
 ### Experience
-* 6 Years (2001 - 2007) as a bartender/waiter in different touristic resorts trough Europe (Germany, Italy, Austria) during the Summer holidays, having seasonal contracts, in my last years of secondary school and throughout my university period.
-* 1 Year (2008 - 2009) Call Centre operator (Open Mind Group Romania) in Italian language on behalf of Vodafone Italia.
-* 3 Years (2008 - 2011) Gaming Start-Up, Operations Manager / Admin, solving operational and customer support issues using a tickets system and managing Lua and C++ developers.
-* 8 Years (2011 - 2019) Self-employed as a Mechanical Engineer (Domestic and Commercial HVAC industry) as well as Mechanical Supervisor / Foreman.
 * 4 Exciting months into coding trough Makers.
+* 8 Years (2011 - 2019) Self-employed as a Mechanical Engineer (Domestic and Commercial HVAC industry) as well as Mechanical Supervisor / Foreman.
+* 3 Years (2008 - 2011) Gaming Start-Up, Operations Manager / Admin, solving operational and customer support issues using a tickets system and managing Lua and C++ developers.
+* 1 Year (2008 - 2009) Call Centre operator (Open Mind Group Romania) in Italian language on behalf of Vodafone Italia.
+* 6 Years (2001 - 2007) as a bartender/waiter in different touristic resorts trough Europe (Germany, Italy, Austria) during the Summer holidays, having seasonal contracts, in my last years of secondary school and throughout my university period.
+
+
+
+
 
