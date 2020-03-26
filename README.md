@@ -48,7 +48,7 @@
 
 
 ### Experience
-* 4 Exciting months into coding trough Makers.
+* 4 Exciting months into coding through Makers.
 * 8 Years (2011 - 2019) Self-employed as a Mechanical Engineer (Domestic and Commercial HVAC industry) as well as Mechanical Supervisor / Foreman.
 * 3 Years (2008 - 2011) Gaming Start-Up, Operations Manager / Admin, solving operational and customer support issues using a ticket system and managing Lua and C++ developers.
 * 1 Year (2008 - 2009) Call Centre operator (Open Mind Group Romania) in Italian language on behalf of Vodafone Italia.
